@@ -66,13 +66,13 @@ html {
     text-transform: uppercase;
 }
 
-.ptext.border {
+.border {
     background-color: #111;
     color: white;
     padding: 20px;
 }
 
-.ptext.border.trans {
+.trans {
     background-color: transparent;
 }
 
